@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  Fate-Garden
+
+  Created by Rui Du on 4/26/13.
+  Copyright (c) 2013 Rui Du. All rights reserved.
+*/
+
+"TEST" = "中文";
+
+"dflt_theme_1_title" = "是 或 否 ?";
+"dflt_theme_1_option_1" = "是";
+"dflt_theme_1_option_2" = "否";
+"dflt_theme_2_title" = "晚餐吃什么 ?";
+"dflt_theme_2_option_1" = "寿司";
+"dflt_theme_2_option_2" = "泰国菜";
+"dflt_theme_2_option_3" = "自助餐";
+"dflt_theme_3_title" = "掷个骰子";
+"dflt_theme_tutorial_title" = "今晚吃什么?";
+"dflt_theme_tutorial_option_1" = "鸡肉";
+"dflt_theme_tutorial_option_2" = "寿司";
+
+"error" = "内部错误，请重试";
+
+"instant_result" = "即时结果";
+"instant_result_alert" = "即时结果在设置里面";
+"instant_result_alert_ok" = "好";
+"instant_result_settings_alert" = "即时结果会一次性显示答案.";
+
+"option_dflt_title" = "选什么好呢?";
+"option_dflt_option_color_red" = "红色";
+"option_dflt_option_color_blue" = "蓝色";
+"option_dflt_option_color_yellow" = "黄色";
+"option_dflt_option_color_orange" = "橙色";
+"option_dflt_option_color_pink" = "粉色";
+"option_dflt_option_color_purple" = "紫色";
+"option_dflt_option_postfix" = "花瓣";
+"option_dflt_option_prefix" = "自定义";
+
+"rate" = "评价我们";
+"rate_alert" = "祝您好运，给个好评吧:)";
+"rate_alert_go" = "走";
+"rate_alert_later" = "以后再说";
+
+"sound" = "音乐";
+
+"tutorial" = "教程";
+"tutorial_alert" = "确定再看一遍教程?";
+"tutorial_alert_no" = "不";
+"tutorial_alert_yes" = "是";
+"tutorial_mask_png_1" = "mask1";
+"tutorial_mask_png_2" = "mask2";
+"tutorial_mask_png_3" = "mask3";
+"tutorial_mask_png_4" = "mask4";
+"tutorial_mask_png_5" = "mask5";
+"tutorial_mask_png_6" = "mask6";
+"tutorial_mask_png_7" = "mask7";
+"tutorial_mask_png_8" = "mask8";

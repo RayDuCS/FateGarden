@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  Fate-Garden
+
+  Created by Rui Du on 4/26/13.
+  Copyright (c) 2013 Rui Du. All rights reserved.
+*/
+
+"TEST" = "English";
+
+"dflt_theme_1_title" = "Yes or No ?";
+"dflt_theme_1_option_1" = "Yes";
+"dflt_theme_1_option_2" = "No";
+"dflt_theme_2_title" = "What for dinner ?";
+"dflt_theme_2_option_1" = "Sushi";
+"dflt_theme_2_option_2" = "Thai food";
+"dflt_theme_2_option_3" = "Buffet";
+"dflt_theme_3_title" = "Give me a number";
+"dflt_theme_tutorial_title" = "What to eat tonight ?";
+"dflt_theme_tutorial_option_1" = "Chicken";
+"dflt_theme_tutorial_option_2" = "Sushi";
+
+"error" = "Internal Error, please try again";
+
+"instant_result" = "Instant Result";
+"instant_result_alert" = "Instant Result can be turned on in Settings";
+"instant_result_alert_ok" = "OK";
+"instant_result_settings_alert" = "Switch on instant result will make petals drop all at one shake instead of one at a shake.";
+
+"option_dflt_title" = "What should I choose?";
+"option_dflt_option_color_red" = "red";
+"option_dflt_option_color_blue" = "blue";
+"option_dflt_option_color_yellow" = "yellow";
+"option_dflt_option_color_orange" = "orange";
+"option_dflt_option_color_pink" = "pink";
+"option_dflt_option_color_purple" = "purple";
+"option_dflt_option_postfix" = " choice";
+"option_dflt_option_prefix" = "customize ";
+
+"rate" = "Rate us";
+"rate_alert" = "Rate us for good luck :)";
+"rate_alert_go" = "Go";
+"rate_alert_later" = "Later";
+
+"sound" = "Sound";
+
+"tutorial" = "Tutorial";
+"tutorial_alert" = "Are you sure to watch tutorial once more?";
+"tutorial_alert_no" = "No";
+"tutorial_alert_yes" = "Yes";
+"tutorial_mask_png_1" = "mask1";
+"tutorial_mask_png_2" = "mask2";
+"tutorial_mask_png_3" = "mask3";
+"tutorial_mask_png_4" = "mask4";
+"tutorial_mask_png_5" = "mask5";
+"tutorial_mask_png_6" = "mask6";
+"tutorial_mask_png_7" = "mask7";
+"tutorial_mask_png_8" = "mask8";
